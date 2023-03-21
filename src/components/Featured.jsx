@@ -3,7 +3,7 @@ import Book from "./UI/Book"
 
 import {books} from '../data'
 
-export default function featured() {
+export default function Featured() {
  // console.log(books)
 
  return (
